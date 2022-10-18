@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "639511331258",
+    "firebase_url": "https://animelist-90a78.firebaseio.com",
+    "project_id": "animelist-90a78",
+    "storage_bucket": "animelist-90a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639511331258:android:31eec49b0d1dadf0715d83",
+        "android_client_info": {
+          "package_name": "com.animelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639511331258-0gl0buobd8m8k6fv6jk0qniq100518tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animelist",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "639511331258-i9duku14pdv3q0tj2nn8739ne8q0pp3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animelist",
+            "certificate_hash": "773faf437d93469110dadd11667839e55284ded0"
+          }
+        },
+        {
+          "client_id": "639511331258-3lck13qaraap8sc04lefhk7rg0rv12t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpq6-mAAlvHwuRalgu88hsqTK8cYn4iZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639511331258-3lck13qaraap8sc04lefhk7rg0rv12t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+{
+  "name": "AnimeList",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.8.0",
+    "@react-native-community/google-signin": "^3.0.4",
+    "@react-native-community/masked-view": "^0.1.6",
+    "@react-native-firebase/app": "^6.7.1",
+    "@react-native-firebase/auth": "^6.2.0",
+    "@react-native-firebase/firestore": "^6.2.0",
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-app-intro-slider": "^3.0.0",
+    "react-native-auto-scrolling": "^1.1.0",
+    "react-native-elements": "^1.2.7",
+    "react-native-fbsdk": "^1.1.2",
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-modals": "^0.19.9",
+    "react-native-paper": "^3.6.0",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-remote-svg": "^2.0.6",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-native-screens": "^2.0.0-alpha.33",
+    "react-native-status-bar-height": "^2.4.0",
+    "react-native-svg": "^12.0.2",
+    "react-native-tab-view": "^2.13.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-webview": "^8.1.2",
+    "react-navigation": "^4.0.10",
+    "react-navigation-material-bottom-tabs": "^2.1.5",
+    "react-navigation-stack": "^2.0.16"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.3",
+    "@babel/runtime": "^7.8.3",
+    "@react-native-community/eslint-config": "^0.0.7",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}
